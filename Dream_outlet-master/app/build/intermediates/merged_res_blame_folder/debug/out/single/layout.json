@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "C:\\Users\\subha\\Documents\\Android_application_development(Fifth Force)\\eccomerce\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_register.xml",
+        "source": "C:\\Users\\subha\\Documents\\Android_application_development(Fifth Force)\\eccomerce\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\subha\\Documents\\Android_application_development(Fifth Force)\\eccomerce\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_admin_new_order.xml",
+        "source": "C:\\Users\\subha\\Documents\\Android_application_development(Fifth Force)\\eccomerce\\app\\src\\main\\res\\layout\\activity_admin_new_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\subha\\Documents\\Android_application_development(Fifth Force)\\eccomerce\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_product_list.xml",
+        "source": "C:\\Users\\subha\\Documents\\Android_application_development(Fifth Force)\\eccomerce\\app\\src\\main\\res\\layout\\activity_product_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\subha\\Documents\\Android_application_development(Fifth Force)\\eccomerce\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_home.xml",
+        "source": "C:\\Users\\subha\\Documents\\Android_application_development(Fifth Force)\\eccomerce\\app\\src\\main\\res\\layout\\content_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\subha\\Documents\\Android_application_development(Fifth Force)\\eccomerce\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\subha\\Documents\\Android_application_development(Fifth Force)\\eccomerce\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\subha\\Documents\\Android_application_development(Fifth Force)\\eccomerce\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\product_item_layout.xml",
+        "source": "C:\\Users\\subha\\Documents\\Android_application_development(Fifth Force)\\eccomerce\\app\\src\\main\\res\\layout\\product_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\subha\\Documents\\Android_application_development(Fifth Force)\\eccomerce\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_cart.xml",
+        "source": "C:\\Users\\subha\\Documents\\Android_application_development(Fifth Force)\\eccomerce\\app\\src\\main\\res\\layout\\activity_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\subha\\Documents\\Android_application_development(Fifth Force)\\eccomerce\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\cartitemlayout.xml",
+        "source": "C:\\Users\\subha\\Documents\\Android_application_development(Fifth Force)\\eccomerce\\app\\src\\main\\res\\layout\\cartitemlayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\subha\\Documents\\Android_application_development(Fifth Force)\\eccomerce\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\neworderview.xml",
+        "source": "C:\\Users\\subha\\Documents\\Android_application_development(Fifth Force)\\eccomerce\\app\\src\\main\\res\\layout\\neworderview.xml"
+    },
+    {
+        "merged": "C:\\Users\\subha\\Documents\\Android_application_development(Fifth Force)\\eccomerce\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_admin__add_new_product_.xml",
+        "source": "C:\\Users\\subha\\Documents\\Android_application_development(Fifth Force)\\eccomerce\\app\\src\\main\\res\\layout\\activity_admin__add_new_product_.xml"
+    },
+    {
+        "merged": "C:\\Users\\subha\\Documents\\Android_application_development(Fifth Force)\\eccomerce\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_confirm.xml",
+        "source": "C:\\Users\\subha\\Documents\\Android_application_development(Fifth Force)\\eccomerce\\app\\src\\main\\res\\layout\\activity_confirm.xml"
+    },
+    {
+        "merged": "C:\\Users\\subha\\Documents\\Android_application_development(Fifth Force)\\eccomerce\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\app_bar_home.xml",
+        "source": "C:\\Users\\subha\\Documents\\Android_application_development(Fifth Force)\\eccomerce\\app\\src\\main\\res\\layout\\app_bar_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\subha\\Documents\\Android_application_development(Fifth Force)\\eccomerce\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "C:\\Users\\subha\\Documents\\Android_application_development(Fifth Force)\\eccomerce\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\subha\\Documents\\Android_application_development(Fifth Force)\\eccomerce\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_settings.xml",
+        "source": "C:\\Users\\subha\\Documents\\Android_application_development(Fifth Force)\\eccomerce\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\subha\\Documents\\Android_application_development(Fifth Force)\\eccomerce\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_home.xml",
+        "source": "C:\\Users\\subha\\Documents\\Android_application_development(Fifth Force)\\eccomerce\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\subha\\Documents\\Android_application_development(Fifth Force)\\eccomerce\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_product_detail.xml",
+        "source": "C:\\Users\\subha\\Documents\\Android_application_development(Fifth Force)\\eccomerce\\app\\src\\main\\res\\layout\\activity_product_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\subha\\Documents\\Android_application_development(Fifth Force)\\eccomerce\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\nav_header_home.xml",
+        "source": "C:\\Users\\subha\\Documents\\Android_application_development(Fifth Force)\\eccomerce\\app\\src\\main\\res\\layout\\nav_header_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\subha\\Documents\\Android_application_development(Fifth Force)\\eccomerce\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\admin_category_activity.xml",
+        "source": "C:\\Users\\subha\\Documents\\Android_application_development(Fifth Force)\\eccomerce\\app\\src\\main\\res\\layout\\admin_category_activity.xml"
+    }
+]

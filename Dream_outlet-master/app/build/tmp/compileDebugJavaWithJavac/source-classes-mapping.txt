@@ -1,0 +1,118 @@
+com/example/ecommerce/ConfirmActivity.java
+ com.example.ecommerce.ConfirmActivity
+ com.example.ecommerce.ConfirmActivity$1
+com/example/ecommerce/databinding/ActivityAdminAddNewProductBinding.java
+ com.example.ecommerce.databinding.ActivityAdminAddNewProductBinding
+com/example/ecommerce/ViewHolderClasses/ProductViewHolder.java
+ com.example.ecommerce.ViewHolderClasses.ProductViewHolder
+com/example/ecommerce/databinding/ActivityConfirmBinding.java
+ com.example.ecommerce.databinding.ActivityConfirmBinding
+com/example/ecommerce/databinding/ActivityMainBinding.java
+ com.example.ecommerce.databinding.ActivityMainBinding
+com/example/ecommerce/databinding/ActivitySettingsBinding.java
+ com.example.ecommerce.databinding.ActivitySettingsBinding
+com/example/ecommerce/databinding/AppBarHomeBinding.java
+ com.example.ecommerce.databinding.AppBarHomeBinding
+com/example/ecommerce/SettingsActivity.java
+ com.example.ecommerce.SettingsActivity
+ com.example.ecommerce.SettingsActivity$1
+ com.example.ecommerce.SettingsActivity$2
+ com.example.ecommerce.SettingsActivity$3
+ com.example.ecommerce.SettingsActivity$4
+ com.example.ecommerce.SettingsActivity$5
+ com.example.ecommerce.SettingsActivity$6
+ com.example.ecommerce.SettingsActivity$7
+com/example/ecommerce/ViewHolderClasses/CartViewHolder.java
+ com.example.ecommerce.ViewHolderClasses.CartViewHolder
+com/example/ecommerce/databinding/ActivityCartBinding.java
+ com.example.ecommerce.databinding.ActivityCartBinding
+com/example/ecommerce/MyClasses/Products.java
+ com.example.ecommerce.MyClasses.Products
+com/example/ecommerce/databinding/ActivityLoginBinding.java
+ com.example.ecommerce.databinding.ActivityLoginBinding
+com/example/ecommerce/databinding/ActivityRegisterBinding.java
+ com.example.ecommerce.databinding.ActivityRegisterBinding
+com/example/ecommerce/databinding/NavHeaderHomeBinding.java
+ com.example.ecommerce.databinding.NavHeaderHomeBinding
+com/example/ecommerce/MainActivity.java
+ com.example.ecommerce.MainActivity
+ com.example.ecommerce.MainActivity$1
+ com.example.ecommerce.MainActivity$2
+ com.example.ecommerce.MainActivity$3
+com/example/ecommerce/ProductListActivity.java
+ com.example.ecommerce.ProductListActivity
+ com.example.ecommerce.ProductListActivity$1
+com/example/ecommerce/MyClasses/Orders.java
+ com.example.ecommerce.MyClasses.Orders
+com/example/ecommerce/databinding/NeworderviewBinding.java
+ com.example.ecommerce.databinding.NeworderviewBinding
+com/example/ecommerce/RegisterActivity.java
+ com.example.ecommerce.RegisterActivity
+ com.example.ecommerce.RegisterActivity$1
+ com.example.ecommerce.RegisterActivity$2
+ com.example.ecommerce.RegisterActivity$2$1
+com/example/ecommerce/MyClasses/Cart.java
+ com.example.ecommerce.MyClasses.Cart
+com/example/ecommerce/LoginActivity.java
+ com.example.ecommerce.LoginActivity
+ com.example.ecommerce.LoginActivity$1
+ com.example.ecommerce.LoginActivity$2
+ com.example.ecommerce.LoginActivity$3
+ com.example.ecommerce.LoginActivity$4
+com/example/ecommerce/databinding/ActivityProductListBinding.java
+ com.example.ecommerce.databinding.ActivityProductListBinding
+com/example/ecommerce/databinding/ActivityHomeBinding.java
+ com.example.ecommerce.databinding.ActivityHomeBinding
+com/example/ecommerce/databinding/ActivityAdminNewOrderBinding.java
+ com.example.ecommerce.databinding.ActivityAdminNewOrderBinding
+com/example/ecommerce/adminNewOrderActivity.java
+ com.example.ecommerce.adminNewOrderActivity
+ com.example.ecommerce.adminNewOrderActivity$1
+ com.example.ecommerce.adminNewOrderActivity$1$1
+com/example/ecommerce/RememberMe/RemeberMe.java
+ com.example.ecommerce.RememberMe.RemeberMe
+com/example/ecommerce/ProductDetailActivity.java
+ com.example.ecommerce.ProductDetailActivity
+ com.example.ecommerce.ProductDetailActivity$1
+ com.example.ecommerce.ProductDetailActivity$1$1
+ com.example.ecommerce.ProductDetailActivity$1$2
+ com.example.ecommerce.ProductDetailActivity$2
+com/example/ecommerce/databinding/ActivityProductDetailBinding.java
+ com.example.ecommerce.databinding.ActivityProductDetailBinding
+com/example/ecommerce/Admin_AddNewProduct_Activity.java
+ com.example.ecommerce.Admin_AddNewProduct_Activity
+ com.example.ecommerce.Admin_AddNewProduct_Activity$1
+ com.example.ecommerce.Admin_AddNewProduct_Activity$2
+ com.example.ecommerce.Admin_AddNewProduct_Activity$2$1
+ com.example.ecommerce.Admin_AddNewProduct_Activity$2$2
+ com.example.ecommerce.Admin_AddNewProduct_Activity$3
+ com.example.ecommerce.Admin_AddNewProduct_Activity$4
+com/example/ecommerce/BuildConfig.java
+ com.example.ecommerce.BuildConfig
+com/example/ecommerce/CartActivity.java
+ com.example.ecommerce.CartActivity
+ com.example.ecommerce.CartActivity$1
+ com.example.ecommerce.CartActivity$1$1
+ com.example.ecommerce.CartActivity$1$1$1
+ com.example.ecommerce.CartActivity$1$1$1$1
+ com.example.ecommerce.CartActivity$2
+com/example/ecommerce/databinding/ProductItemLayoutBinding.java
+ com.example.ecommerce.databinding.ProductItemLayoutBinding
+com/example/ecommerce/ViewHolderClasses/AdminOrderView.java
+ com.example.ecommerce.ViewHolderClasses.AdminOrderView
+com/example/ecommerce/databinding/AdminCategoryActivityBinding.java
+ com.example.ecommerce.databinding.AdminCategoryActivityBinding
+com/example/ecommerce/databinding/ContentHomeBinding.java
+ com.example.ecommerce.databinding.ContentHomeBinding
+com/example/ecommerce/HomeActivity.java
+ com.example.ecommerce.HomeActivity
+ com.example.ecommerce.HomeActivity$1
+ com.example.ecommerce.HomeActivity$2
+ com.example.ecommerce.HomeActivity$3
+ com.example.ecommerce.HomeActivity$3$1
+com/example/ecommerce/Admin_Category_Activity.java
+ com.example.ecommerce.Admin_Category_Activity
+com/example/ecommerce/MyClasses/Users.java
+ com.example.ecommerce.MyClasses.Users
+com/example/ecommerce/databinding/CartitemlayoutBinding.java
+ com.example.ecommerce.databinding.CartitemlayoutBinding
